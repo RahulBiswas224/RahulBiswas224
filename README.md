@@ -76,16 +76,15 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 ---
 
-## 📌 Featured projects
+### 🚀 Featured projects
 
 | Project | Stack | Status |
-|---|---|---|
-| 🍽️ Easy PetPuja — Online Meal Booking | Node.js · React · MongoDB · Razorpay | ✅ Complete |
-| ☁️ AWS Cloud Café — Multi-Tier Web App | EC2 · RDS Aurora · S3 · IAM · DMS | 🚧 Pushing soon |
-| ⚡ Serverless API — Lambda + API Gateway | Lambda · API Gateway · CloudWatch | 🚧 Pushing soon |
-| 🏗️ IaC Stack — CloudFormation Deployment | CloudFormation · EC2 · VPC · S3 | 🚧 Pushing soon |
-| 📈 HA Architecture — Auto Scaling + ELB | EC2 · ELB · Route 53 · CloudWatch | 🚧 Pushing soon |
-
+| :--- | :--- | :--- |
+| 🌐 **[Cafeteria](https://github.com/RahulBiswas224)** | Node.js • React • MongoDB • Razorpay | 🟢 Complete |
+| 🛡️ **[AWS re/Start Lab 116](https://github.com/RahulBiswas224/AWSRestart)** | EC2 • RDS • Amazon Linux • SSH | 🟡 Testing |
+| ⚡ **[Serverless API](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Lambda • API Gateway • CloudWatch | 🟡 Testing |
+| 🤖 **[Executable Intelligence](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Hybrid LLM + RL • Tkinter GUI | 🟡 Testing |
+| 🏗️ **[HA Architecture](https://github.com/RahulBiswas224)** | EC2 • ELB • Route 53 • CloudWatch | 🟡 Testing |
 ---
 
 ## 📊 GitHub stats
