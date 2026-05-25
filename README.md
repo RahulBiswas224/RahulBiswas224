@@ -31,6 +31,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 - ☁️ **30+ hands-on AWS labs** — EC2, S3, Lambda, RDS, VPC, CloudFormation & more
 - 📫 **rahulbiswas006677@gmail.com**
 - 📍 Open to **Cloud, DevOps, or Full-Stack** internships / fresher roles
+- 🌱 Currently learning: **AWS CLF-C02** · **Terraform** · **Docker** · **Kubernetes basics**
 
 ---
 
