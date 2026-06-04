@@ -27,11 +27,11 @@ On the dev side, I shipped a production-style full-stack application — **Easy 
 
 Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt Engineering. Preparing for **AWS CLF-C02**. Comfortable in Linux, Bash scripting, Git, and REST API design.
 
-- 🎓 BCA (Honours) at **Brainware University** — CGPA **9.40 / 10**
-- ☁️ **30+ hands-on AWS labs** — EC2, S3, Lambda, RDS, VPC, CloudFormation & more
-- 📫 **rahulbiswas006677@gmail.com**
-- 📍 Open to **Cloud, DevOps, or Full-Stack** internships / fresher roles
-- 🌱 Currently learning: **AWS CLF-C02** · **Terraform** · **Docker** · **Kubernetes basics**
+-  BCA (Honours) at **Brainware University** — CGPA **9.40 / 10**
+-  **30+ hands-on AWS labs** — EC2, S3, Lambda, RDS, VPC, CloudFormation & more
+-  **rahulbiswas006677@gmail.com**
+-  Open to **Cloud, DevOps, or Full-Stack** internships / fresher roles
+-  Currently learning: **Terraform** · **Docker** · **Kubernetes basics**
 
 ---
 
@@ -76,18 +76,18 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | Stack | Status |
 | :--- | :--- | :--- |
-| 🌐 **[Cafeteria](https://github.com/RahulBiswas224)** | Node.js • React • MongoDB • Razorpay | 🟢 Complete |
-| 🛡️ **[AWS re/Start Lab 116](https://github.com/RahulBiswas224/AWSRestart)** | EC2 • RDS • Amazon Linux • SSH | 🟡 Testing |
-| ⚡ **[Serverless API](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Lambda • API Gateway • CloudWatch | 🟡 Testing |
-| 🤖 **[Executable Intelligence](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Hybrid LLM + RL • Tkinter GUI | 🟡 Testing |
-| 🏗️ **[HA Architecture](https://github.com/RahulBiswas224)** | EC2 • ELB • Route 53 • CloudWatch | 🟡 Testing |
+|  **[Cafeteria](https://github.com/RahulBiswas224)** | Node.js • React • MongoDB • Razorpay | 🟢 Complete |
+|  **[AWS re/Start Lab 116](https://github.com/RahulBiswas224/AWSRestart)** | EC2 • RDS • Amazon Linux • SSH | 🟡 Testing |
+|  **[Serverless API](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Lambda • API Gateway • CloudWatch | 🟡 Testing |
+|  **[Executable Intelligence](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Hybrid LLM + RL • Tkinter GUI | 🟡 Testing |
+|  **[HA Architecture](https://github.com/RahulBiswas224)** | EC2 • ELB • Route 53 • CloudWatch | 🟡 Testing |
 ---
 
-## 📊 GitHub stats
+##  GitHub stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RahulBiswas224&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
@@ -99,12 +99,12 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 ---
 
-## 🎓 Certifications & training
+##  Certifications & training
 
-- ☁️ **AWS re/Start** — Cloud Solutions Architect Associate track *(Ongoing, 2026)*
-- ☕ **Programming in Java** — NPTEL · IIT Certification *(Jan–Apr 2025)*
-- 📊 **Data Representation & Visualization** — Brainware University *(Jul–Aug 2024)*
-- 🎯 **AWS Certified Cloud Practitioner (CLF-C02)**
+-  **AWS re/Start** — Cloud Solutions Architect Associate track *(Ongoing, 2026)*
+-  **Programming in Java** — NPTEL · IIT Certification *(Jan–Apr 2025)*
+-  **Data Representation & Visualization** — Brainware University *(Jul–Aug 2024)*
+-  **AWS Certified Cloud Practitioner (CLF-C02)**
 
 ---
 
