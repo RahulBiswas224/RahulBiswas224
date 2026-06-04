@@ -104,7 +104,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 - ☁️ **AWS re/Start** — Cloud Solutions Architect Associate track *(Ongoing, 2026)*
 - ☕ **Programming in Java** — NPTEL · IIT Certification *(Jan–Apr 2025)*
 - 📊 **Data Representation & Visualization** — Brainware University *(Jul–Aug 2024)*
-- 🎯 Actively preparing for **AWS Certified Cloud Practitioner (CLF-C02)**
+- 🎯 **AWS Certified Cloud Practitioner (CLF-C02)**
 
 ---
 
