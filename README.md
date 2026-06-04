@@ -17,7 +17,7 @@
 
 ---
 
-## 🧑‍💻 About me
+## About me
 
 I'm Rahul Biswas — a cloud and full-stack developer with hands-on experience across AWS infrastructure, serverless architecture, and MERN-stack web development.
 
