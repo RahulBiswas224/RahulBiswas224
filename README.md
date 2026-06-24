@@ -30,11 +30,11 @@ On the **dev side**, I've shipped production-style full-stack applications inclu
 
 Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt Engineering. Actively preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**. Comfortable in Linux, Bash scripting, Git, and REST API design.
 
-- 🎓 BCA (Honours) at **Brainware University** — CGPA **9.40 / 10**
-- ☁️ **30+ hands-on AWS labs** — EC2, S3, Lambda, RDS, VPC, CloudFormation & more
-- 📬 **rahulbiswas006677@gmail.com**
-- 💼 Open to **Cloud, DevOps, or Full-Stack** internships / fresher roles
-- 🔭 Currently learning: **Terraform** · **Docker** · **Kubernetes basics**
+-  BCA (Honours) at **Brainware University** — CGPA **9.40 / 10**
+-  **30+ hands-on AWS labs** — EC2, S3, Lambda, RDS, VPC, CloudFormation & more
+-  **rahulbiswas006677@gmail.com**
+-  Open to **Cloud, DevOps, or Full-Stack** internships / fresher roles
+-  Currently learning: **Terraform** · **Docker** · **Kubernetes basics**
 
 ---
 
@@ -95,16 +95,16 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| ⚡ **[QuickForm](https://github.com/RahulBiswas224/quickform-)** | SaaS-style drag-and-drop form builder with async email queues, CSV export & public form sharing | Node.js · React · Prisma · Redis · BullMQ · Vercel | 🟢 Live |
-| 🍽️ **[EasyPetPuja](https://github.com/RahulBiswas224/EasyPetpuja-)** | University canteen meal booking system with role-based portals & Razorpay payments | Node.js · Express · React · MongoDB · Razorpay | 🟢 Complete |
-| 🗂️ **[PortfolioEcosystem](https://github.com/RahulBiswas224/PortfolioEcosystem)** | Full-stack portfolio CMS with JWT auth, BullMQ queues, Redis caching & Cloudinary uploads | Node.js · Prisma · Neon PostgreSQL · React · Vite | 🟢 Complete |
-| 💬 **[QuickChat](https://github.com/RahulBiswas224/QuickChat-)** | Multi-threaded Java TCP chat server tested to 50+ concurrent users, with Swing GUI client | Java · Sockets · Multithreading · Swing | 🟢 Complete |
-| 📝 **[MicroblogApplications](https://github.com/RahulBiswas224/MicroblogApplications)** | Full-stack microblogging starter with session-based auth and profile management | React · Express · MongoDB | 🟢 Complete |
-| 🤖 **[ExecutableIntelligence](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Autonomous navigation agent using hybrid LLM + Reinforcement Learning to optimize decision latency | Python · Tkinter · RL | 🟡 Testing |
-| ☁️ **[AWS Cloud Café](https://github.com/RahulBiswas224/AWSRestart)** | Multi-tier café app on AWS: EC2, RDS Aurora, DMS migration, S3, IAM, CloudWatch | EC2 · RDS · S3 · DMS · CloudWatch | 🟡 Testing |
-| 📡 **[Serverless API](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Event-driven serverless app with Lambda, API Gateway, and Step Functions orchestration | Lambda · API Gateway · CloudWatch | 🟡 Testing |
-| 🏏 **[IPL Data Analysis](https://github.com/RahulBiswas224/IplDataAnalysis.)** | EDA pipeline for IPL match datasets with statistical profiling and distribution modeling | Python · Pandas · Seaborn | 🟢 Complete |
-| ⚽ **[FIFA World Cup Analysis](https://github.com/RahulBiswas224/FifaWorldcupAnalysis)** | Sports analytics pipeline with data imputation, correlation matrices, and predictive features | Python · Pandas · Seaborn | 🟢 Complete |
+|  **[QuickForm](https://github.com/RahulBiswas224/quickform-)** | SaaS-style drag-and-drop form builder with async email queues, CSV export & public form sharing | Node.js · React · Prisma · Redis · BullMQ · Vercel | 🟢 Live |
+|  **[EasyPetPuja](https://github.com/RahulBiswas224/EasyPetpuja-)** | University canteen meal booking system with role-based portals & Razorpay payments | Node.js · Express · React · MongoDB · Razorpay | 🟢 Complete |
+|  **[PortfolioEcosystem](https://github.com/RahulBiswas224/PortfolioEcosystem)** | Full-stack portfolio CMS with JWT auth, BullMQ queues, Redis caching & Cloudinary uploads | Node.js · Prisma · Neon PostgreSQL · React · Vite | 🟢 Complete |
+|  **[QuickChat](https://github.com/RahulBiswas224/QuickChat-)** | Multi-threaded Java TCP chat server tested to 50+ concurrent users, with Swing GUI client | Java · Sockets · Multithreading · Swing | 🟢 Complete |
+|  **[MicroblogApplications](https://github.com/RahulBiswas224/MicroblogApplications)** | Full-stack microblogging starter with session-based auth and profile management | React · Express · MongoDB | 🟢 Complete |
+|  **[ExecutableIntelligence](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Autonomous navigation agent using hybrid LLM + Reinforcement Learning to optimize decision latency | Python · Tkinter · RL | 🟡 Testing |
+|  **[AWS Cloud Café](https://github.com/RahulBiswas224/AWSRestart)** | Multi-tier café app on AWS: EC2, RDS Aurora, DMS migration, S3, IAM, CloudWatch | EC2 · RDS · S3 · DMS · CloudWatch | 🟡 Testing |
+|  **[Serverless API](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Event-driven serverless app with Lambda, API Gateway, and Step Functions orchestration | Lambda · API Gateway · CloudWatch | 🟡 Testing |
+|  **[IPL Data Analysis](https://github.com/RahulBiswas224/IplDataAnalysis.)** | EDA pipeline for IPL match datasets with statistical profiling and distribution modeling | Python · Pandas · Seaborn | 🟢 Complete |
+|  **[FIFA World Cup Analysis](https://github.com/RahulBiswas224/FifaWorldcupAnalysis)** | Sports analytics pipeline with data imputation, correlation matrices, and predictive features | Python · Pandas · Seaborn | 🟢 Complete |
 
 ---
 
@@ -122,11 +122,11 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 ## 🏆 Certifications & training
 
-- ☁️ **AWS re/Start** — Cloud Solutions Architect Associate track *(Ongoing, 2026)*
-- 📋 **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services
-- ☕ **Programming in Java** — NPTEL · IIT Certification *(Jan–Apr 2025)*
-- 📊 **Data Representation & Visualization** — Brainware University *(Jul–Aug 2024)*
-- 🎯 **Preparing for:** AWS Certified Solutions Architect – Associate (SAA-C03)
+-  **AWS re/Start** — Cloud Solutions Architect Associate track *(Ongoing, 2026)*
+-  **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services
+-  **Programming in Java** — NPTEL · IIT Certification *(Jan–Apr 2025)*
+-  **Data Representation & Visualization** — Brainware University *(Jul–Aug 2024)*
+-  **Preparing for:** AWS Certified Solutions Architect – Associate (SAA-C03)
 
 ---
 
