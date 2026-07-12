@@ -114,7 +114,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub & LeetCode stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RahulBiswas224&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
@@ -122,6 +122,12 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulBiswas224&theme=github_dark" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/RahulBiswas224">
+    <img src="https://leetcard.jacoblin.cool/RahulBiswas224?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
