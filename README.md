@@ -104,7 +104,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 | :--- | :--- | :--- | :--- |
 | 🔗 **[ProductionReadyNodeAPI](https://github.com/RahulBiswas224/ProductionReadyNodeAPI)** | Production-ready REST API with CSR architecture, idempotent payments, cursor pagination & Prisma/PostgreSQL | Node.js · Express · Prisma · PostgreSQL · Jest | 🟢 Active |
 | 🔗 **[QuickForm](https://github.com/RahulBiswas224/quickform-)** | SaaS-style drag-and-drop form builder with async email queues, CSV export & public form sharing | Node.js · React · Prisma · Redis · BullMQ · Vercel | 🟢 Live |
-| 🔗 **[PortfolioEcosystem](https://github.com/RahulBiswas224/PortfolioEcosystem)** | Full-stack portfolio CMS with JWT auth, BullMQ queues, Redis caching & Cloudinary uploads | Node.js · Prisma · Neon PostgreSQL · React · Vite | 🟢 Complete |
+| 🔗 **[PortfolioEcosystem](https://github.com/RahulBiswas224/PortfolioEcosystem)** | Full-stack portfolio CMS with JWT auth, BullMQ queues, Redis caching & Cloudinary uploads | Node.js · Prisma · Neon PostgreSQL · React · Vite | 🟢 Live |
 | 🔗 **[EasyPetpuja](https://github.com/RahulBiswas224/EasyPetpuja-)** | University canteen meal booking system with role-based portals & Razorpay payments | Node.js · Express · EJS · MongoDB · Razorpay | 🟢 Complete |
 | 🔗 **[QuickChat](https://github.com/RahulBiswas224/QuickChat-)** | Real-time, multi-threaded Java TCP chat server tested to 50+ concurrent users, with Swing GUI client | Java · Sockets · Multithreading · Swing | 🟢 Complete |
 | 🔗 **[MicroblogApplications](https://github.com/RahulBiswas224/MicroblogApplications)** | Full-stack microblogging starter with session-based auth and profile management | React · Express · MongoDB | 🟢 Complete |
