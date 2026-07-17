@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=AWS+re%2FStart+Trainee;Full-Stack+Web+Developer;Cloud+Infrastructure+Enthusiast;Java+%7C+Node.js+%7C+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=AWS+re%2FStart+Trainee;Full-Stack+Web+Developer;Cloud+Infrastructure+Enthusiast;Node.js+%7C+React+%7C+Java+%7C+Python" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <b>Cloud & Full-Stack Developer &nbsp;|&nbsp; AWS re/Start Trainee &nbsp;|&nbsp; BCA (Hons) · CGPA 9.40</b><br/>
-  <i>Building scalable cloud-native applications · Habra, West Bengal, India</i>
+  <i>Building scalable, event-driven, cloud-native applications · Habra, West Bengal, India</i>
 </p>
 
 <p align="center">
@@ -32,15 +32,15 @@ I'm Rahul Biswas — a cloud and full-stack developer with hands-on experience a
 
 On the **cloud side**, I've worked extensively within the **AWS re/Start** program — provisioning EC2 instances with launch templates and AMIs, designing VPCs with public/private subnets, NACLs, and route tables, deploying multi-AZ RDS Aurora clusters, migrating databases via AWS DMS, and authoring YAML/JSON **CloudFormation** templates for full-stack infrastructure provisioning. I've also built event-driven serverless applications using **Lambda + API Gateway**, configured **Auto Scaling groups** with ELB and Route 53 failover routing, and monitored infrastructure through **CloudWatch** alarms and **CloudTrail** audit logs.
 
-On the **dev side**, I've shipped production-style full-stack applications including **QuickForm** (a SaaS-style drag-and-drop form builder with BullMQ + Redis async email queues), **PortfolioEcosystem** (a full CMS platform with JWT auth, Redis caching, and Cloudinary uploads), **EasyPetPuja** (a canteen booking system with Razorpay integration), and **QuickChat** (a multi-threaded Java TCP chat server tested to 50+ concurrent connections).
+On the **dev side**, I've shipped production-style full-stack applications including a **production-grade REST API** built on the Controller-Service-Repository pattern with idempotent payments and cursor pagination, **QuickForm** (a SaaS-style drag-and-drop form builder with BullMQ + Redis async email queues), **PortfolioEcosystem** (a full CMS platform with JWT auth, Redis caching, and Cloudinary uploads), **EasyPetPuja** (a canteen booking system with Razorpay integration), and **QuickChat** (a multi-threaded Java TCP chat server tested to 50+ concurrent connections).
 
 Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt Engineering. Actively preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**. Comfortable in Linux, Bash scripting, Git, and REST API design.
 
--  BCA (Honours) at **Brainware University** — CGPA **9.40 / 10**
--  **30+ hands-on AWS labs** — EC2, S3, Lambda, RDS, VPC, CloudFormation & more
--  **rahulbiswas006677@gmail.com**
--  Open to **Cloud, DevOps, or Full-Stack** internships / fresher roles
--  Currently learning: **Terraform** · **Docker** · **Kubernetes basics**
+- 🎓 BCA (Honours) at **Brainware University** — CGPA **9.40 / 10**
+- ☁️ **30+ hands-on AWS labs** — EC2, S3, Lambda, RDS, VPC, CloudFormation & more
+- 📫 **rahulbiswas006677@gmail.com**
+- 💼 Open to **Cloud, DevOps, or Full-Stack** internships / fresher roles
+- 🌱 Currently learning: **Terraform** · **Docker** · **Kubernetes basics**
 
 ---
 
@@ -67,6 +67,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Web & Databases**
 
@@ -101,19 +102,34 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-|  **[QuickForm](https://github.com/RahulBiswas224/quickform-)** | SaaS-style drag-and-drop form builder with async email queues, CSV export & public form sharing | Node.js · React · Prisma · Redis · BullMQ · Vercel | 🟢 Live |
-|  **[EasyPetPuja](https://github.com/RahulBiswas224/EasyPetpuja-)** | University canteen meal booking system with role-based portals & Razorpay payments | Node.js · Express · React · MongoDB · Razorpay | 🟢 Complete |
-|  **[PortfolioEcosystem](https://github.com/RahulBiswas224/PortfolioEcosystem)** | Full-stack portfolio CMS with JWT auth, BullMQ queues, Redis caching & Cloudinary uploads | Node.js · Prisma · Neon PostgreSQL · React · Vite | 🟢 Complete |
-|  **[QuickChat](https://github.com/RahulBiswas224/QuickChat-)** | Multi-threaded Java TCP chat server tested to 50+ concurrent users, with Swing GUI client | Java · Sockets · Multithreading · Swing | 🟢 Complete |
-|  **[MicroblogApplications](https://github.com/RahulBiswas224/MicroblogApplications)** | Full-stack microblogging starter with session-based auth and profile management | React · Express · MongoDB | 🟢 Complete |
-|  **[ExecutableIntelligence](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Autonomous navigation agent using hybrid LLM + Reinforcement Learning to optimize decision latency | Python · Tkinter · RL | 🟡 Testing |
-|  **[AWS Cloud Café](https://github.com/RahulBiswas224/AWSRestart)** | Multi-tier café app on AWS: EC2, RDS Aurora, DMS migration, S3, IAM, CloudWatch | EC2 · RDS · S3 · DMS · CloudWatch | 🟡 Testing |
-|  **[Serverless API](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Event-driven serverless app with Lambda, API Gateway, and Step Functions orchestration | Lambda · API Gateway · CloudWatch | 🟡 Testing |
-|  **[IPL Data Analysis](https://github.com/RahulBiswas224/IplDataAnalysis.)** | EDA pipeline for IPL match datasets with statistical profiling and distribution modeling | Python · Pandas · Seaborn | 🟢 Complete |
-|  **[FIFA World Cup Analysis](https://github.com/RahulBiswas224/FifaWorldcupAnalysis)** | Sports analytics pipeline with data imputation, correlation matrices, and predictive features | Python · Pandas · Seaborn | 🟢 Complete |
+| 🔗 **[ProductionReadyNodeAPI](https://github.com/RahulBiswas224/ProductionReadyNodeAPI)** | Production-ready REST API with CSR architecture, idempotent payments, cursor pagination & Prisma/PostgreSQL | Node.js · Express · Prisma · PostgreSQL · Jest | 🟢 Active |
+| 🔗 **[QuickForm](https://github.com/RahulBiswas224/quickform-)** | SaaS-style drag-and-drop form builder with async email queues, CSV export & public form sharing | Node.js · React · Prisma · Redis · BullMQ · Vercel | 🟢 Live |
+| 🔗 **[PortfolioEcosystem](https://github.com/RahulBiswas224/PortfolioEcosystem)** | Full-stack portfolio CMS with JWT auth, BullMQ queues, Redis caching & Cloudinary uploads | Node.js · Prisma · Neon PostgreSQL · React · Vite | 🟢 Complete |
+| 🔗 **[EasyPetpuja](https://github.com/RahulBiswas224/EasyPetpuja-)** | University canteen meal booking system with role-based portals & Razorpay payments | Node.js · Express · EJS · MongoDB · Razorpay | 🟢 Complete |
+| 🔗 **[QuickChat](https://github.com/RahulBiswas224/QuickChat-)** | Real-time, multi-threaded Java TCP chat server tested to 50+ concurrent users, with Swing GUI client | Java · Sockets · Multithreading · Swing | 🟢 Complete |
+| 🔗 **[MicroblogApplications](https://github.com/RahulBiswas224/MicroblogApplications)** | Full-stack microblogging starter with session-based auth and profile management | React · Express · MongoDB | 🟢 Complete |
+| 🔗 **[ExecutableIntelligence](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Autonomous navigation agent using hybrid LLM + Reinforcement Learning to optimize decision latency | Python · Tkinter · RL | 🟡 Testing |
+| 🔗 **[AWSRestart](https://github.com/RahulBiswas224/AWSRestart)** | Multi-tier café app on AWS: EC2, RDS Aurora, DMS migration, S3, IAM, CloudWatch | EC2 · RDS · S3 · DMS · CloudWatch | 🟡 In Progress |
+| 🔗 **[IplDataAnalysis.](https://github.com/RahulBiswas224/IplDataAnalysis.)** | EDA pipeline for IPL match datasets with statistical profiling and distribution modeling | Python · Pandas · Seaborn | 🟢 Complete |
+| 🔗 **[FifaWorldcupAnalysis](https://github.com/RahulBiswas224/FifaWorldcupAnalysis)** | Sports analytics pipeline with data imputation, correlation matrices, and predictive features | Python · Pandas · Seaborn | 🟢 Complete |
+| 🔗 **[LeetCode-SQL](https://github.com/RahulBiswas224/LeetCode-SQL)** | Structured SQL solutions for LeetCode database challenges — joins, window functions, query optimization | MySQL · PostgreSQL | 🟢 Active |
+
+### 🎓 Academic & practice repositories
+
+| Repository | Focus |
+| :--- | :--- |
+| **[FullstackLabBca](https://github.com/RahulBiswas224/FullstackLabBca)** | Full-stack fundamentals — modular code, CRUD, middleware |
+| **[CorePythonFundamentals](https://github.com/RahulBiswas224/CorePythonFundamentals)** | Python scripts on geometry, arithmetic & data manipulation |
+| **[DsaLabAssignments](https://github.com/RahulBiswas224/DsaLabAssignments)** | C programs for core data structures & algorithms |
+| **[DBMSAcademicAssignments](https://github.com/RahulBiswas224/DBMSAcademicAssignments)** | SQL / PL-SQL assignments for the DBMS course |
+| **[C-Logic-Vault](https://github.com/RahulBiswas224/C-Logic-Vault)** | Modular C programs on core programming concepts |
+| **[OopsJavaExercise](https://github.com/RahulBiswas224/OopsJavaExercise)** | OOP principles, multithreading, exceptions & Collections in Java |
+| **[JavaDsa](https://github.com/RahulBiswas224/JavaDsa)** | Java algorithms & OS scheduling (FCFS, LRU) |
+| **[WorldCupMatchesDataAnalysis](https://github.com/RahulBiswas224/WorldCupMatchesDataAnalysis)** | Historical FIFA World Cup analytics with Seaborn |
+| **[Datasets](https://github.com/RahulBiswas224/Datasets)** | Curated datasets for EDA & ML practice |
+| **[CV-And-Resume](https://github.com/RahulBiswas224/CV-And-Resume)** | Resume & CV source files |
 
 ---
-
 
 ## 📊 GitHub & LeetCode stats
 
@@ -131,16 +147,15 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
   </a>
 </p>
 
-
 ---
 
 ## 🏆 Certifications & training
 
--  **AWS re/Start** — Cloud Solutions Architect Associate track *(Ongoing, 2026)*
--  **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services
--  **Programming in Java** — NPTEL · IIT Certification *(Jan–Apr 2025)*
--  **Data Representation & Visualization** — Brainware University *(Jul–Aug 2024)*
--  **Preparing for:** AWS Certified Solutions Architect – Associate (SAA-C03)
+- 🎯 **AWS re/Start** — Cloud Solutions Architect Associate track *(Ongoing, 2026)*
+- ✅ **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services
+- ✅ **Programming in Java** — NPTEL · IIT Certification *(Jan–Apr 2025)*
+- ✅ **Data Representation & Visualization** — Brainware University *(Jul–Aug 2024)*
+- 📘 **Preparing for:** AWS Certified Solutions Architect – Associate (SAA-C03)
 
 ---
 
