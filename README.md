@@ -32,7 +32,7 @@ I'm Rahul Biswas — a cloud and full-stack developer with hands-on experience a
 
 On the **cloud side**, I've worked extensively within the **AWS re/Start** program — provisioning EC2 instances with launch templates and AMIs, designing VPCs with public/private subnets, NACLs, and route tables, deploying multi-AZ RDS Aurora clusters, migrating databases via AWS DMS, and authoring YAML/JSON **CloudFormation** templates for full-stack infrastructure provisioning. I've also built event-driven serverless applications using **Lambda + API Gateway**, configured **Auto Scaling groups** with ELB and Route 53 failover routing, and monitored infrastructure through **CloudWatch** alarms and **CloudTrail** audit logs.
 
-On the **dev side**, I've shipped production-style full-stack applications including a **production-grade REST API** built on the Controller-Service-Repository pattern with idempotent payments and cursor pagination, **QuickForm** (a SaaS-style drag-and-drop form builder with BullMQ + Redis async email queues), **PortfolioEcosystem** (a full CMS platform with JWT auth, Redis caching, and Cloudinary uploads), **EasyPetPuja** (a canteen booking system with Razorpay integration), and **QuickChat** (a multi-threaded Java TCP chat server tested to 50+ concurrent connections).
+On the **dev side**, I've shipped production-style full-stack applications including a **production-grade REST API** built on the Controller-Service-Repository pattern with idempotent payments and cursor pagination, **QuickForm** (a SaaS-style drag-and-drop form builder with BullMQ + Redis async email queues), **PortfolioEcosystem** (a full CMS platform with JWT auth, Redis caching, and Cloudinary uploads), **EasyPetPuja** (a canteen booking system with Razorpay integration), and **QuickChat** (a multi-threaded Java TCP chat server tested to 50+ concurrent connections). More recently, I've gone deeper into **systems programming**, building **CShell** (a Unix shell written from scratch in C) and **libdsc** (a from-scratch C data structures library tested with Valgrind).
 
 Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt Engineering. Actively preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**. Comfortable in Linux, Bash scripting, Git, and REST API design.
 
@@ -102,12 +102,15 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
+| 🔗 **[CShell](https://github.com/RahulBiswas224/CShell)** | Unix shell written from scratch in C — supports piping, I/O redirection, background jobs & built-in commands, no external shell dependencies | C · Unix · System Programming · Makefile | 🟢 Active |
+| 🔗 **[libdsc](https://github.com/RahulBiswas224/libdsc)** | From-scratch C library implementing linked lists, stacks, queues, BSTs & a chained hash table, tested with Valgrind | C · Data Structures · Hash Table · Valgrind | 🟢 Active |
 | 🔗 **[ProductionReadyNodeAPI](https://github.com/RahulBiswas224/ProductionReadyNodeAPI)** | Production-ready REST API with CSR architecture, idempotent payments, cursor pagination & Prisma/PostgreSQL | Node.js · Express · Prisma · PostgreSQL · Jest | 🟢 Active |
 | 🔗 **[QuickForm](https://github.com/RahulBiswas224/quickform-.git)** | SaaS-style drag-and-drop form builder with async email queues, CSV export & public form sharing | Node.js · React · Prisma · Redis · BullMQ · Vercel | 🟢 Live |
 | 🔗 **[PortfolioEcosystem](https://github.com/RahulBiswas224/PortfolioEcosystem)** | Full-stack portfolio CMS with JWT auth, BullMQ queues, Redis caching & Cloudinary uploads | Node.js · Prisma · Neon PostgreSQL · React · Vite | 🟢 Live |
 | 🔗 **[EasyPetpuja](https://github.com/RahulBiswas224/EasyPetpuja)** | University canteen meal booking system with role-based portals & Razorpay payments | Node.js · Express · EJS · MongoDB · Razorpay | 🟢 Complete |
 | 🔗 **[QuickChat](https://github.com/RahulBiswas224/QuickChat)** | Real-time, multi-threaded Java TCP chat server tested to 50+ concurrent users, with Swing GUI client | Java · Sockets · Multithreading · Swing | 🟢 Complete |
 | 🔗 **[MicroblogApplications](https://github.com/RahulBiswas224/MicroblogApplications)** | Full-stack microblogging starter with session-based auth and profile management | React · Express · MongoDB | 🟢 Complete |
+| 🔗 **[CurrencyConvertor](https://github.com/RahulBiswas224/CurrencyConvertor)** | Desktop currency conversion app with local CSV transaction logging | Python · Tkinter · ttkbootstrap | 🟢 Complete |
 | 🔗 **[ExecutableIntelligence](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Autonomous navigation agent using hybrid LLM + Reinforcement Learning to optimize decision latency | Python · Tkinter · RL | 🟡 Testing |
 | 🔗 **[AWSRestart](https://github.com/RahulBiswas224/AWSRestart)** | Multi-tier café app on AWS: EC2, RDS Aurora, DMS migration, S3, IAM, CloudWatch | EC2 · RDS · S3 · DMS · CloudWatch | 🟡 In Progress |
 | 🔗 **[IplDataAnalysis.](https://github.com/RahulBiswas224/IplDataAnalysis.)** | EDA pipeline for IPL match datasets with statistical profiling and distribution modeling | Python · Pandas · Seaborn | 🟢 Complete |
@@ -127,6 +130,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 | **[JavaDsa](https://github.com/RahulBiswas224/JavaDsa)** | Java algorithms & OS scheduling (FCFS, LRU) |
 | **[WorldCupMatchesDataAnalysis](https://github.com/RahulBiswas224/WorldCupMatchesDataAnalysis)** | Historical FIFA World Cup analytics with Seaborn |
 | **[Datasets](https://github.com/RahulBiswas224/Datasets)** | Curated datasets for EDA & ML practice |
+| **[ProjectReports](https://github.com/RahulBiswas224/ProjectReports)** | Technical documentation, cloud architecture diagrams & research reports on AI safety frameworks and infrastructure guardrails |
 | **[CV-And-Resume](https://github.com/RahulBiswas224/CV-And-Resume)** | Resume & CV source files |
 
 ---
