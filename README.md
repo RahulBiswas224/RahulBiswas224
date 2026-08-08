@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=AWS+re%2FStart+Trainee;Full-Stack+Web+Developer;Cloud+Infrastructure+Enthusiast;Node.js+%7C+React+%7C+Java+%7C+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=AWS+re%2FStart+Trainee;Full-Stack+%2F+Event-Driven+Systems+Developer;Cloud+Infrastructure+Enthusiast;Node.js+%7C+React+%7C+AWS+%7C+Java+%7C+Python" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,11 +28,11 @@
 
 ## About me
 
-I'm Rahul Biswas — a cloud and full-stack developer with hands-on experience across AWS infrastructure, serverless architecture, and MERN/full-stack web development.
+I'm Rahul Biswas — a cloud and full-stack developer building event-driven systems that bridge application logic and cloud infrastructure, backed by hands-on AWS training and a growing portfolio of production-style projects.
 
 On the **cloud side**, I've worked extensively within the **AWS re/Start** program — provisioning EC2 instances with launch templates and AMIs, designing VPCs with public/private subnets, NACLs, and route tables, deploying multi-AZ RDS Aurora clusters, migrating databases via AWS DMS, and authoring YAML/JSON **CloudFormation** templates for full-stack infrastructure provisioning. I've also built event-driven serverless applications using **Lambda + API Gateway**, configured **Auto Scaling groups** with ELB and Route 53 failover routing, and monitored infrastructure through **CloudWatch** alarms and **CloudTrail** audit logs.
 
-On the **dev side**, I've shipped production-style full-stack applications including a **production-grade REST API** built on the Controller-Service-Repository pattern with idempotent payments and cursor pagination, **QuickForm** (a SaaS-style drag-and-drop form builder with BullMQ + Redis async email queues), **PortfolioEcosystem** (a full CMS platform with JWT auth, Redis caching, and Cloudinary uploads), **EasyPetPuja** (a canteen booking system with Razorpay integration), and **QuickChat** (a multi-threaded Java TCP chat server tested to 50+ concurrent connections). More recently, I've gone deeper into **systems programming**, building **CShell** (a Unix shell written from scratch in C) and **libdsc** (a from-scratch C data structures library tested with Valgrind).
+On the **dev side**, I focus on systems that stay reliable under real conditions — queues, retries, and real-time updates — not just features that work in a demo. Recent work includes the **Incident Response & Escalation Engine** (a PagerDuty-style platform with BullMQ + Redis background workers and Socket.io real-time dashboards), a **production-grade REST API** built on the Controller-Service-Repository pattern with idempotent payments and cursor pagination, **QuickForm** (a SaaS-style drag-and-drop form builder with async email queues), **PortfolioEcosystem** (a full CMS platform with JWT auth, Redis caching, and Cloudinary uploads), **EasyPetPuja** (a canteen booking system with Razorpay integration), and **QuickChat** (a multi-threaded Java TCP chat server tested to 50+ concurrent connections). I've also gone deeper into **systems programming**, building **CShell** (a Unix shell written from scratch in C) and **libdsc** (a from-scratch C data structures library tested with Valgrind).
 
 Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt Engineering. Actively preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**. Comfortable in Linux, Bash scripting, Git, and REST API design.
 
@@ -69,11 +69,12 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Web & Databases**
+**Web, Realtime & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -86,6 +87,8 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -102,6 +105,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
+| 🔗 **[Incident-Response-Engine](https://github.com/RahulBiswas224/Incident-Response-Engine)** | Event-driven incident management platform (PagerDuty clone) with automated 15s escalation workflows via BullMQ + Upstash Redis, and a real-time Socket.io dashboard with optimistic UI | Node.js · Express · React · PostgreSQL · Prisma · BullMQ · Redis · Socket.io | 🟢 Active |
 | 🔗 **[CShell](https://github.com/RahulBiswas224/CShell)** | Unix shell written from scratch in C — supports piping, I/O redirection, background jobs & built-in commands, no external shell dependencies | C · Unix · System Programming · Makefile | 🟢 Active |
 | 🔗 **[libdsc](https://github.com/RahulBiswas224/libdsc)** | From-scratch C library implementing linked lists, stacks, queues, BSTs & a chained hash table, tested with Valgrind | C · Data Structures · Hash Table · Valgrind | 🟢 Active |
 | 🔗 **[ProductionReadyNodeAPI](https://github.com/RahulBiswas224/ProductionReadyNodeAPI)** | Production-ready REST API with CSR architecture, idempotent payments, cursor pagination & Prisma/PostgreSQL | Node.js · Express · Prisma · PostgreSQL · Jest | 🟢 Active |
@@ -121,6 +125,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 | Repository | Focus |
 | :--- | :--- |
+| **[fs07p1a__TaskManager](https://github.com/RahulBiswas224/fs07p1a__TaskManager)** | Backend-driven To-Do List app with strict MVC architecture & server-side rendering |
 | **[FullstackLabBca](https://github.com/RahulBiswas224/FullstackLabBca)** | Full-stack fundamentals — modular code, CRUD, middleware |
 | **[CorePythonFundamentals](https://github.com/RahulBiswas224/CorePythonFundamentals)** | Python scripts on geometry, arithmetic & data manipulation |
 | **[DsaLabAssignments](https://github.com/RahulBiswas224/DsaLabAssignments)** | C programs for core data structures & algorithms |
