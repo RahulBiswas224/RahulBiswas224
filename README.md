@@ -1,18 +1,12 @@
 
 <p align="center">
-  <img src="./Assests/stlaker.jpg" width="100%" height="200" alt="Stlaker">
+  <img src="./Assests/stlaker.jpg" width="98%" height="200" alt="Stlaker">
 </p>
 
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center" style="border: none; padding: 0;">
-      <img src="./Assests/wasted.jpg" width="100%" height="200" alt="Wasted">
-    </td>
-    <td width="50%" align="center" style="border: none; padding: 0;">
-      <img src="./Assests/i%20am.jpg" width="100%" height="200" alt="I am">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./Assests/wasted.jpg" width="49%" height="200" alt="Wasted">
+  <img src="./Assests/i%20am.jpg" width="49%" height="200" alt="I am">
+</p>
 
 <h1 align="center">Hi, I'm Rahul Biswas 👋</h1>
 
