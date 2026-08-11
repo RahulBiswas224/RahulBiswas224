@@ -3,12 +3,17 @@
   <img src="./Assests/stlaker.jpg" width="100%" height="200" alt="Stlaker">
 </p>
 
-<p align="center">
-  <img src="./Assests/wasted.jpg" width="100%" height="200" alt="Wasted">
-</p>
-<p align="center">
-  <img src="./Assests/i%20am.jpg" width="100%" height="200" alt="I am">
-</p>
+<table width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" style="border: none; padding: 0;">
+      <img src="./Assests/wasted.jpg" width="100%" height="200" alt="Wasted">
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 0;">
+      <img src="./Assests/i%20am.jpg" width="100%" height="200" alt="I am">
+    </td>
+  </tr>
+</table>
+
 <h1 align="center">Hi, I'm Rahul Biswas 👋</h1>
 
 <p align="center">
