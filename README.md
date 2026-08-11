@@ -1,7 +1,14 @@
+
 <p align="center">
-  <img src="./Assests/loki.gif" width="340" alt="Profile Demo">
+  <img src="./Assests/stlaker.jpg" width="100%" height="200" alt="Stlaker">
 </p>
 
+<p align="center">
+  <img src="./Assests/wasted.jpg" width="100%" height="200" alt="Wasted">
+</p>
+<p align="center">
+  <img src="./Assests/i%20am.jpg" width="100%" height="200" alt="I am">
+</p>
 <h1 align="center">Hi, I'm Rahul Biswas 👋</h1>
 
 <p align="center">
