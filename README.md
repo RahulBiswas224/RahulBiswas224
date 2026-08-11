@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/loki.gif" width="540" alt="Profile Demo">
+  <img src="./Assests/loki.gif" width="540" alt="Profile Demo">
 </p>
 
 <h1 align="center">Hi, I'm Rahul Biswas 👋</h1>
