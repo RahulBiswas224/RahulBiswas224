@@ -11,10 +11,6 @@
 <h1 align="center">Hi, I'm Rahul Biswas 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=500&lines=AI+is+my+teacher%2C+not+my+competitor;I+learn+with+it%2C+not+against+it;Always+curious%2C+always+growing" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <i>I learn <b>with</b> AI, not against it — every tool is a teacher if you let it be.</i>
 </p>
 <p align="center">
