@@ -120,7 +120,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| 🛡️ **[RepoGuard](https://github.com/RahulBiswas224/RepoGuard)** | Local security auditing tool that scans public GitHub repos' full commit history for leaked secrets — combines Gitleaks with optional AI-powered document scanning | Python · Gitleaks · GitHub API | 🟢 Active |
+| ❤️‍🔥 **[RepoGuard](https://github.com/RahulBiswas224/RepoGuard)** | Local security auditing tool that scans public GitHub repos' full commit history for leaked secrets — combines Gitleaks with optional AI-powered document scanning | Python · Gitleaks · GitHub API | 🟢 Active |
 | 🔗 **[Incident-Response-Engine](https://github.com/RahulBiswas224/Incident-Response-Engine)** | Event-driven incident management platform (PagerDuty clone) with automated 15s escalation workflows via BullMQ + Upstash Redis, and a real-time Socket.io dashboard with optimistic UI | Node.js · Express · React · PostgreSQL · Prisma · BullMQ · Redis · Socket.io | 🟢 Active |
 | 🔗 **[CShell](https://github.com/RahulBiswas224/CShell)** | Unix shell written from scratch in C — supports piping, I/O redirection, background jobs & built-in commands, no external shell dependencies | C · Unix · System Programming · Makefile | 🟢 Active |
 | 🔗 **[libdsc](https://github.com/RahulBiswas224/libdsc)** | From-scratch C library implementing linked lists, stacks, queues, BSTs & a chained hash table, tested with Valgrind | C · Data Structures · Hash Table · Valgrind | 🟢 Active |
