@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./Assests/stlaker.jpg" width="98%" height="200" alt="Stlaker">
 </p>
@@ -13,9 +12,10 @@
 <p align="center">
   <i>I learn <b>with</b> AI, not against it — every tool is a teacher if you let it be.</i>
 </p>
+
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=AWS+re%2FStart+Trainee;Full-Stack+%2F+Event-Driven+Systems+Developer;Cloud+Infrastructure+Enthusiast;Node.js+%7C+React+%7C+AWS+%7C+Java+%7C+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=AWS+re%2FStart+Trainee;Full-Stack+%2F+Event-Driven+Systems+Developer;Cloud+%26+Security+Tooling+Enthusiast;Node.js+%7C+React+%7C+AWS+%7C+Java+%7C+Python" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,16 +41,17 @@
 
 ## About me
 
-I'm Rahul Biswas — a cloud and full-stack developer building event-driven systems that bridge application logic and cloud infrastructure, backed by hands-on AWS training and a growing portfolio of production-style projects.
+I'm Rahul Biswas — a cloud and full-stack developer building event-driven systems that bridge application logic and cloud infrastructure, backed by hands-on AWS training and a growing portfolio of production-style projects and developer tooling.
 
 On the **cloud side**, I've worked extensively within the **AWS re/Start** program — provisioning EC2 instances with launch templates and AMIs, designing VPCs with public/private subnets, NACLs, and route tables, deploying multi-AZ RDS Aurora clusters, migrating databases via AWS DMS, and authoring YAML/JSON **CloudFormation** templates for full-stack infrastructure provisioning. I've also built event-driven serverless applications using **Lambda + API Gateway**, configured **Auto Scaling groups** with ELB and Route 53 failover routing, and monitored infrastructure through **CloudWatch** alarms and **CloudTrail** audit logs.
 
-On the **dev side**, I focus on systems that stay reliable under real conditions — queues, retries, and real-time updates — not just features that work in a demo. Recent work includes the **Incident Response & Escalation Engine** (a PagerDuty-style platform with BullMQ + Redis background workers and Socket.io real-time dashboards), a **production-grade REST API** built on the Controller-Service-Repository pattern with idempotent payments and cursor pagination, **QuickForm** (a SaaS-style drag-and-drop form builder with async email queues), **PortfolioEcosystem** (a full CMS platform with JWT auth, Redis caching, and Cloudinary uploads), **EasyPetPuja** (a canteen booking system with Razorpay integration), and **QuickChat** (a multi-threaded Java TCP chat server tested to 50+ concurrent connections). I've also gone deeper into **systems programming**, building **CShell** (a Unix shell written from scratch in C) and **libdsc** (a from-scratch C data structures library tested with Valgrind).
+On the **dev side**, I focus on systems that stay reliable under real conditions — queues, retries, and real-time updates — not just features that work in a demo. Recent work includes the **Incident Response & Escalation Engine** (a PagerDuty-style platform with BullMQ + Redis background workers and Socket.io real-time dashboards), **RepoGuard** (a local security auditing tool that scans full git history for leaked secrets, combining Gitleaks with optional AI-powered document scanning), a **production-grade REST API** built on the Controller-Service-Repository pattern with idempotent payments and cursor pagination, **QuickForm** (a SaaS-style drag-and-drop form builder with async email queues), **PortfolioEcosystem** (a full CMS platform with JWT auth, Redis caching, and Cloudinary uploads), **EasyPetPuja** (a canteen booking system with Razorpay integration), and **QuickChat** (a multi-threaded Java TCP chat server tested to 50+ concurrent connections). I've also gone deeper into **systems programming**, building **CShell** (a Unix shell written from scratch in C) and **libdsc** (a from-scratch C data structures library tested with Valgrind).
 
 Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt Engineering. Actively preparing for **AWS Certified Solutions Architect – Associate (SAA-C03)**. Comfortable in Linux, Bash scripting, Git, and REST API design.
 
 - 🎓 BCA (Honours) at **Brainware University** — CGPA **9.40 / 10**
 - ☁️ **30+ hands-on AWS labs** — EC2, S3, Lambda, RDS, VPC, CloudFormation & more
+- 🛡️ Built **RepoGuard**, an open-source secret-scanning audit tool (Python + Gitleaks)
 - 📫 **rahulbiswas006677@gmail.com**
 - 💼 Open to **Cloud, DevOps, or Full-Stack** internships / fresher roles
 - 🌱 Currently learning: **Terraform** · **Docker** · **Kubernetes basics**
@@ -95,8 +96,9 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**DevOps & Tools**
+**Security & DevOps**
 
+![Gitleaks](https://img.shields.io/badge/Gitleaks-000000?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
@@ -118,20 +120,18 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
+| 🛡️ **[RepoGuard](https://github.com/RahulBiswas224/RepoGuard)** | Local security auditing tool that scans public GitHub repos' full commit history for leaked secrets — combines Gitleaks with optional AI-powered document scanning | Python · Gitleaks · GitHub API | 🟢 Active |
 | 🔗 **[Incident-Response-Engine](https://github.com/RahulBiswas224/Incident-Response-Engine)** | Event-driven incident management platform (PagerDuty clone) with automated 15s escalation workflows via BullMQ + Upstash Redis, and a real-time Socket.io dashboard with optimistic UI | Node.js · Express · React · PostgreSQL · Prisma · BullMQ · Redis · Socket.io | 🟢 Active |
 | 🔗 **[CShell](https://github.com/RahulBiswas224/CShell)** | Unix shell written from scratch in C — supports piping, I/O redirection, background jobs & built-in commands, no external shell dependencies | C · Unix · System Programming · Makefile | 🟢 Active |
 | 🔗 **[libdsc](https://github.com/RahulBiswas224/libdsc)** | From-scratch C library implementing linked lists, stacks, queues, BSTs & a chained hash table, tested with Valgrind | C · Data Structures · Hash Table · Valgrind | 🟢 Active |
 | 🔗 **[ProductionReadyNodeAPI](https://github.com/RahulBiswas224/ProductionReadyNodeAPI)** | Production-ready REST API with CSR architecture, idempotent payments, cursor pagination & Prisma/PostgreSQL | Node.js · Express · Prisma · PostgreSQL · Jest | 🟢 Active |
-| 🔗 **[QuickForm](https://github.com/RahulBiswas224/quickform-.git)** | SaaS-style drag-and-drop form builder with async email queues, CSV export & public form sharing | Node.js · React · Prisma · Redis · BullMQ · Vercel | 🟢 Live |
+| 🔗 **[QuickForm](https://github.com/RahulBiswas224/QuickForm)** | SaaS-style drag-and-drop form builder with async email queues, CSV export & public form sharing | Node.js · React · Prisma · Redis · BullMQ · Vercel | 🟢 Live |
 | 🔗 **[PortfolioEcosystem](https://github.com/RahulBiswas224/PortfolioEcosystem)** | Full-stack portfolio CMS with JWT auth, BullMQ queues, Redis caching & Cloudinary uploads | Node.js · Prisma · Neon PostgreSQL · React · Vite | 🟢 Live |
 | 🔗 **[EasyPetpuja](https://github.com/RahulBiswas224/EasyPetpuja)** | University canteen meal booking system with role-based portals & Razorpay payments | Node.js · Express · EJS · MongoDB · Razorpay | 🟢 Complete |
 | 🔗 **[QuickChat](https://github.com/RahulBiswas224/QuickChat)** | Real-time, multi-threaded Java TCP chat server tested to 50+ concurrent users, with Swing GUI client | Java · Sockets · Multithreading · Swing | 🟢 Complete |
 | 🔗 **[MicroblogApplications](https://github.com/RahulBiswas224/MicroblogApplications)** | Full-stack microblogging starter with session-based auth and profile management | React · Express · MongoDB | 🟢 Complete |
 | 🔗 **[CurrencyConvertor](https://github.com/RahulBiswas224/CurrencyConvertor)** | Desktop currency conversion app with local CSV transaction logging | Python · Tkinter · ttkbootstrap | 🟢 Complete |
-| 🔗 **[ExecutableIntelligence](https://github.com/RahulBiswas224/ExecutableIntelligence)** | Autonomous navigation agent using hybrid LLM + Reinforcement Learning to optimize decision latency | Python · Tkinter · RL | 🟡 Testing |
 | 🔗 **[AWSRestart](https://github.com/RahulBiswas224/AWSRestart)** | Multi-tier café app on AWS: EC2, RDS Aurora, DMS migration, S3, IAM, CloudWatch | EC2 · RDS · S3 · DMS · CloudWatch | 🟡 In Progress |
-| 🔗 **[IplDataAnalysis.](https://github.com/RahulBiswas224/IplDataAnalysis.)** | EDA pipeline for IPL match datasets with statistical profiling and distribution modeling | Python · Pandas · Seaborn | 🟢 Complete |
-| 🔗 **[FifaWorldcupAnalysis](https://github.com/RahulBiswas224/FifaWorldcupAnalysis)** | Sports analytics pipeline with data imputation, correlation matrices, and predictive features | Python · Pandas · Seaborn | 🟢 Complete |
 | 🔗 **[LeetCode-SQL](https://github.com/RahulBiswas224/LeetCode-SQL)** | Structured SQL solutions for LeetCode database challenges — joins, window functions, query optimization | MySQL · PostgreSQL | 🟢 Active |
 
 ### 🎓 Academic & practice repositories
@@ -146,10 +146,9 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 | **[C-Logic-Vault](https://github.com/RahulBiswas224/C-Logic-Vault)** | Modular C programs on core programming concepts |
 | **[OopsJavaExercise](https://github.com/RahulBiswas224/OopsJavaExercise)** | OOP principles, multithreading, exceptions & Collections in Java |
 | **[JavaDsa](https://github.com/RahulBiswas224/JavaDsa)** | Java algorithms & OS scheduling (FCFS, LRU) |
-| **[WorldCupMatchesDataAnalysis](https://github.com/RahulBiswas224/WorldCupMatchesDataAnalysis)** | Historical FIFA World Cup analytics with Seaborn |
-| **[Datasets](https://github.com/RahulBiswas224/Datasets)** | Curated datasets for EDA & ML practice |
 | **[ProjectReports](https://github.com/RahulBiswas224/ProjectReports)** | Technical documentation, cloud architecture diagrams & research reports on AI safety frameworks and infrastructure guardrails |
 | **[CV-And-Resume](https://github.com/RahulBiswas224/CV-And-Resume)** | Resume & CV source files |
+| **[RixiLab-Internship-Portfolio](https://github.com/RahulBiswas224/RixiLab-Internship-Portfolio)** | Full-stack projects from an 8-week internship at Rixi Lab Technologies |
 
 ---
 
