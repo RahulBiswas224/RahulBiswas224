@@ -116,6 +116,14 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 ---
 
+## 💼 Internship experience
+
+| Internship | Description | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[RixiLab-Internship-Portfolio](https://github.com/RahulBiswas224/RixiLab-Internship-Portfolio)** | 8-week **Full Stack Development Intern** at Rixi Lab Technologies (Intern ID: `RL26080701`) — built the **Dynamic Blogging Platform (FS07P3A)**, a containerized MERN app with JWT auth, a rich-text editor, real-time search, and likes/comments | React 19 · Node.js · Express · MongoDB · Tailwind CSS v4 · Docker | 🟡 In Progress |
+
+---
+
 ## 🚀 Featured projects
 
 | Project | Description | Stack | Status |
