@@ -116,7 +116,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 ---
 
-## 💼 Internship experience
+## Internship experience
 
 | Internship | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
@@ -124,23 +124,23 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 ---
 
-## 🚀 Featured projects
+## ❤️‍🔥 Featured projects
 
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :--- |
 | ❤️‍🔥 **[RepoGuard](https://github.com/RahulBiswas224/RepoGuard)** | Local security auditing tool that scans public GitHub repos' full commit history for leaked secrets — combines Gitleaks with optional AI-powered document scanning | Python · Gitleaks · GitHub API | 🟢 Active |
-| 🔗 **[Incident-Response-Engine](https://github.com/RahulBiswas224/Incident-Response-Engine)** | Event-driven incident management platform (PagerDuty clone) with automated 15s escalation workflows via BullMQ + Upstash Redis, and a real-time Socket.io dashboard with optimistic UI | Node.js · Express · React · PostgreSQL · Prisma · BullMQ · Redis · Socket.io | 🟢 Active |
-| 🔗 **[CShell](https://github.com/RahulBiswas224/CShell)** | Unix shell written from scratch in C — supports piping, I/O redirection, background jobs & built-in commands, no external shell dependencies | C · Unix · System Programming · Makefile | 🟢 Active |
-| 🔗 **[libdsc](https://github.com/RahulBiswas224/libdsc)** | From-scratch C library implementing linked lists, stacks, queues, BSTs & a chained hash table, tested with Valgrind | C · Data Structures · Hash Table · Valgrind | 🟢 Active |
-| 🔗 **[ProductionReadyNodeAPI](https://github.com/RahulBiswas224/ProductionReadyNodeAPI)** | Production-ready REST API with CSR architecture, idempotent payments, cursor pagination & Prisma/PostgreSQL | Node.js · Express · Prisma · PostgreSQL · Jest | 🟢 Active |
-| 🔗 **[QuickForm](https://github.com/RahulBiswas224/QuickForm)** | SaaS-style drag-and-drop form builder with async email queues, CSV export & public form sharing | Node.js · React · Prisma · Redis · BullMQ · Vercel | 🟢 Live |
-| 🔗 **[PortfolioEcosystem](https://github.com/RahulBiswas224/PortfolioEcosystem)** | Full-stack portfolio CMS with JWT auth, BullMQ queues, Redis caching & Cloudinary uploads | Node.js · Prisma · Neon PostgreSQL · React · Vite | 🟢 Live |
-| 🔗 **[EasyPetpuja](https://github.com/RahulBiswas224/EasyPetpuja)** | University canteen meal booking system with role-based portals & Razorpay payments | Node.js · Express · EJS · MongoDB · Razorpay | 🟢 Complete |
-| 🔗 **[QuickChat](https://github.com/RahulBiswas224/QuickChat)** | Real-time, multi-threaded Java TCP chat server tested to 50+ concurrent users, with Swing GUI client | Java · Sockets · Multithreading · Swing | 🟢 Complete |
-| 🔗 **[MicroblogApplications](https://github.com/RahulBiswas224/MicroblogApplications)** | Full-stack microblogging starter with session-based auth and profile management | React · Express · MongoDB | 🟢 Complete |
-| 🔗 **[CurrencyConvertor](https://github.com/RahulBiswas224/CurrencyConvertor)** | Desktop currency conversion app with local CSV transaction logging | Python · Tkinter · ttkbootstrap | 🟢 Complete |
-| 🔗 **[AWSRestart](https://github.com/RahulBiswas224/AWSRestart)** | Multi-tier café app on AWS: EC2, RDS Aurora, DMS migration, S3, IAM, CloudWatch | EC2 · RDS · S3 · DMS · CloudWatch | 🟡 In Progress |
-| 🔗 **[LeetCode-SQL](https://github.com/RahulBiswas224/LeetCode-SQL)** | Structured SQL solutions for LeetCode database challenges — joins, window functions, query optimization | MySQL · PostgreSQL | 🟢 Active |
+| **[Incident-Response-Engine](https://github.com/RahulBiswas224/Incident-Response-Engine)** | Event-driven incident management platform (PagerDuty clone) with automated 15s escalation workflows via BullMQ + Upstash Redis, and a real-time Socket.io dashboard with optimistic UI | Node.js · Express · React · PostgreSQL · Prisma · BullMQ · Redis · Socket.io | 🟢 Active |
+| **[CShell](https://github.com/RahulBiswas224/CShell)** | Unix shell written from scratch in C — supports piping, I/O redirection, background jobs & built-in commands, no external shell dependencies | C · Unix · System Programming · Makefile | 🟢 Active |
+| **[libdsc](https://github.com/RahulBiswas224/libdsc)** | From-scratch C library implementing linked lists, stacks, queues, BSTs & a chained hash table, tested with Valgrind | C · Data Structures · Hash Table · Valgrind | 🟢 Active |
+| **[ProductionReadyNodeAPI](https://github.com/RahulBiswas224/ProductionReadyNodeAPI)** | Production-ready REST API with CSR architecture, idempotent payments, cursor pagination & Prisma/PostgreSQL | Node.js · Express · Prisma · PostgreSQL · Jest | 🟢 Active |
+| **[QuickForm](https://github.com/RahulBiswas224/QuickForm)** | SaaS-style drag-and-drop form builder with async email queues, CSV export & public form sharing | Node.js · React · Prisma · Redis · BullMQ · Vercel | 🟢 Live |
+| **[PortfolioEcosystem](https://github.com/RahulBiswas224/PortfolioEcosystem)** | Full-stack portfolio CMS with JWT auth, BullMQ queues, Redis caching & Cloudinary uploads | Node.js · Prisma · Neon PostgreSQL · React · Vite | 🟢 Live |
+| **[EasyPetpuja](https://github.com/RahulBiswas224/EasyPetpuja)** | University canteen meal booking system with role-based portals & Razorpay payments | Node.js · Express · EJS · MongoDB · Razorpay | 🟢 Complete |
+| **[QuickChat](https://github.com/RahulBiswas224/QuickChat)** | Real-time, multi-threaded Java TCP chat server tested to 50+ concurrent users, with Swing GUI client | Java · Sockets · Multithreading · Swing | 🟢 Complete |
+| **[MicroblogApplications](https://github.com/RahulBiswas224/MicroblogApplications)** | Full-stack microblogging starter with session-based auth and profile management | React · Express · MongoDB | 🟢 Complete |
+| **[CurrencyConvertor](https://github.com/RahulBiswas224/CurrencyConvertor)** | Desktop currency conversion app with local CSV transaction logging | Python · Tkinter · ttkbootstrap | 🟢 Complete |
+| **[AWSRestart](https://github.com/RahulBiswas224/AWSRestart)** | Multi-tier café app on AWS: EC2, RDS Aurora, DMS migration, S3, IAM, CloudWatch | EC2 · RDS · S3 · DMS · CloudWatch | 🟡 In Progress |
+| **[LeetCode-SQL](https://github.com/RahulBiswas224/LeetCode-SQL)** | Structured SQL solutions for LeetCode database challenges — joins, window functions, query optimization | MySQL · PostgreSQL | 🟢 Active |
 
 ### 🎓 Academic & practice repositories
 
