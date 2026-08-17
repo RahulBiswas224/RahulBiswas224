@@ -51,7 +51,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 - 🎓 BCA (Honours) at **Brainware University** — CGPA **9.40 / 10**
 - ☁️ **30+ hands-on AWS labs** — EC2, S3, Lambda, RDS, VPC, CloudFormation & more
-- 🛡️ Built **RepoGuard**, an open-source secret-scanning audit tool (Python + Gitleaks)
+- 🛡️ Built **RepoGuard**, an open-source secret-scanning audit tool (Python + Gitleaks) (TOOL WHICH EXPLOIT 🔥)
 - 📫 **rahulbiswas006677@gmail.com**
 - 💼 Open to **Cloud, DevOps, or Full-Stack** internships / fresher roles
 - 🌱 Currently learning: **Terraform** · **Docker** · **Kubernetes basics**
