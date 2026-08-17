@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  <i>🛡️❤️‍🔥 On a mission to show developers the credentials they didn't know were public — <b>AWS keys, Kaggle tokens, JWTs, API secrets, private access tokens</b> — sitting exposed in commit history, before someone else finds them first, via <a href="https://github.com/RahulBiswas224/RepoGuard"><b>RepoGuard</b></a>.</i>
+</p>
+
+<p align="center">
   <a href="https://readme-typing-svg.demolab.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=AWS+re%2FStart+Trainee;Full-Stack+%2F+Event-Driven+Systems+Developer;Cloud+%26+Security+Tooling+Enthusiast;Node.js+%7C+React+%7C+AWS+%7C+Java+%7C+Python" alt="Typing SVG" />
   </a>
