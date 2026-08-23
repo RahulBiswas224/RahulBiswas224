@@ -29,12 +29,6 @@
 </p>
 
 <p align="center">
-  <img align="right" src="venom.jpg" width="120" alt="Venom Logo">
-  <b>Cloud & Full-Stack Developer &nbsp;|&nbsp; AWS re/Start Trainee &nbsp;|&nbsp; BCA (Hons) · CGPA 9.40</b><br/>
-  <i>Building scalable, event-driven, cloud-native applications · Habra, West Bengal, India</i>
-</p>
-
-<p align="center">
   <a href="mailto:rahulbiswas006677@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
