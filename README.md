@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img align="right" src="venom.png" width="120" alt="Venom Logo">
+  <img align="right" src="venom.jpg" width="120" alt="Venom Logo">
   <b>Cloud & Full-Stack Developer &nbsp;|&nbsp; AWS re/Start Trainee &nbsp;|&nbsp; BCA (Hons) · CGPA 9.40</b><br/>
   <i>Building scalable, event-driven, cloud-native applications · Habra, West Bengal, India</i>
 </p>
