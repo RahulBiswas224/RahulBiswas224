@@ -123,9 +123,16 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 
 ## Internship experience
 
-| Internship | Description | Stack | Status |
+**Rixi Lab Technologies** — Full Stack Development Intern (Intern ID: `RL26080701`), 8-week program, Aug–Sep 2026. Five weekly full-stack builds shipped so far, each independently designed, built, and deployed to a live cloud environment. Full write-ups in **[RixiLab-Internship-Portfolio](https://github.com/RahulBiswas224/RixiLab-Internship-Portfolio)**.
+
+| Week | Project | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[RixiLab-Internship-Portfolio](https://github.com/RahulBiswas224/RixiLab-Internship-Portfolio)** | 8-week **Full Stack Development Intern** at Rixi Lab Technologies (Intern ID: `RL26080701`) — built the **Dynamic Blogging Platform (FS07P3A)**, a containerized MERN app with JWT auth, a rich-text editor, real-time search, and likes/comments | React 19 · Node.js · Express · MongoDB · Tailwind CSS v4 · Docker | 🟡 In Progress |
+| 1 | **[Project Task Manager (FS07P1A)](https://github.com/RahulBiswas224/fs07p1a__TaskManager)** — MVC to-do app with SSR | Node.js · Express · MongoDB · EJS · AWS EC2 · PM2 | 🟢 Complete |
+| 2 | **[Portfolio Ecosystem (FS07P2A)](https://github.com/RahulBiswas224/PortfolioEcosystem)** — CMS with JWT auth & email queues | Node.js · Prisma · Neon PostgreSQL · React · Redis · BullMQ | 🟢 Complete |
+| 3 | **[Dynamic Blogging Platform (FS07P3A)](https://github.com/RahulBiswas224/fs07p3a_Dynamic-Bloging-Platform)** — rich-text publishing, search, likes/comments | React 19 · Express · MongoDB · Tailwind CSS v4 · Docker | 🟢 Complete |
+| 4 | **[E-Commerce (FS07P4A)](https://github.com/RahulBiswas224/fs07p4a_E-Commerce)** — auth, product mgmt, cart, payments | MERN Stack | 🟢 Complete |
+| 5–6 | **[FoodExpress (FS07P5A)](https://github.com/RahulBiswas224/fs07p5a_MernFoodDelivery)** — food delivery app with real-time order tracking & payments | React · Node.js · Express · MongoDB · Socket.io · Razorpay · Jest | 🟢 Complete |
+| 7–8 | Capstone project | TBD | 🟡 Pending |
 
 ---
 
@@ -140,6 +147,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 | **[ProductionReadyNodeAPI](https://github.com/RahulBiswas224/ProductionReadyNodeAPI)** | Production-ready REST API with CSR architecture, idempotent payments, cursor pagination & Prisma/PostgreSQL | Node.js · Express · Prisma · PostgreSQL · Jest | 🟢 Active |
 | **[QuickForm](https://github.com/RahulBiswas224/QuickForm)** | SaaS-style drag-and-drop form builder with async email queues, CSV export & public form sharing | Node.js · React · Prisma · Redis · BullMQ · Vercel | 🟢 Live |
 | **[PortfolioEcosystem](https://github.com/RahulBiswas224/PortfolioEcosystem)** | Full-stack portfolio CMS with JWT auth, BullMQ queues, Redis caching & Cloudinary uploads | Node.js · Prisma · Neon PostgreSQL · React · Vite | 🟢 Live |
+| **[FoodExpress](https://github.com/RahulBiswas224/fs07p5a_MernFoodDelivery)** | Food delivery app with real-time Socket.io order tracking, Razorpay payments & an automated Jest/Supertest suite | React · Node.js · Express · MongoDB · Socket.io · Razorpay | 🟢 Complete |
 | **[EasyPetpuja](https://github.com/RahulBiswas224/EasyPetpuja)** | University canteen meal booking system with role-based portals & Razorpay payments | Node.js · Express · EJS · MongoDB · Razorpay | 🟢 Complete |
 | **[QuickChat](https://github.com/RahulBiswas224/QuickChat)** | Real-time, multi-threaded Java TCP chat server tested to 50+ concurrent users, with Swing GUI client | Java · Sockets · Multithreading · Swing | 🟢 Complete |
 | **[MicroblogApplications](https://github.com/RahulBiswas224/MicroblogApplications)** | Full-stack microblogging starter with session-based auth and profile management | React · Express · MongoDB | 🟢 Complete |
