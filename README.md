@@ -120,10 +120,9 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ---
-
 ## Internship experience
 
-**Rixi Lab Technologies** — Full Stack Development Intern (Intern ID: `RL26080701`), 8-week program, Aug–Sep 2026. Five weekly full-stack builds shipped so far, each independently designed, built, and deployed to a live cloud environment. Full write-ups in **[RixiLab-Internship-Portfolio](https://github.com/RahulBiswas224/RixiLab-Internship-Portfolio)**.
+**Rixi Lab Technologies** — Full Stack Development Intern (Intern ID: `RL26080701`), 8-week program, Aug–Sep 2026. Six full-stack builds shipped, each independently designed, built, and deployed to a live cloud environment. Full write-ups in **[RixiLab-Internship-Portfolio](https://github.com/RahulBiswas224/RixiLab-Internship-Portfolio)**.
 
 | Week | Project | Stack | Status |
 | :--- | :--- | :--- | :--- |
@@ -132,7 +131,7 @@ Currently exploring **Generative AI on AWS** — SageMaker, Bedrock, and Prompt 
 | 3 | **[Dynamic Blogging Platform (FS07P3A)](https://github.com/RahulBiswas224/fs07p3a_Dynamic-Bloging-Platform)** — rich-text publishing, search, likes/comments | React 19 · Express · MongoDB · Tailwind CSS v4 · Docker | 🟢 Complete |
 | 4 | **[E-Commerce (FS07P4A)](https://github.com/RahulBiswas224/fs07p4a_E-Commerce)** — auth, product mgmt, cart, payments | MERN Stack | 🟢 Complete |
 | 5–6 | **[FoodExpress (FS07P5A)](https://github.com/RahulBiswas224/fs07p5a_MernFoodDelivery)** — food delivery app with real-time order tracking & payments | React · Node.js · Express · MongoDB · Socket.io · Razorpay · Jest | 🟢 Complete |
-| 7–8 | Capstone project | TBD | 🟡 Pending |
+| 7–8 | **[Real-Time Video Conferencing Application (FS07P6A)](https://github.com/RahulBiswas224/fs07p5a_MernFoodDelivery)** — capstone: live video/audio meetings, chat, and screen sharing | MERN Stack · WebRTC · Socket.io | 🟢 Complete |
 
 ---
 
